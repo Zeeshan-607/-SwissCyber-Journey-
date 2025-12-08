@@ -7,9 +7,8 @@
 - Kali Linux download start
 - Advance Computer Network Chapter 1
 
-
+ 
 ### Day 2 – Dec 8, 2025 ✅
-- TryHackMe: <room ka naam> start kiya / partly complete
-- New concepts noted: <IP, ports, services, etc.>
-- Advance Computer Network: Ch 1 revision
-- Linux install planned for Day 3
+- Tried another TryHackMe room and explored more offensive security concepts.
+- Revised Advance Computer Network Chapter 1 and noted key points.
+- Planned to install Kali Linux on Day 3.
