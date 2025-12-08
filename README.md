@@ -9,6 +9,6 @@
 
  
 ### Day 2 – Dec 8, 2025 ✅
-- Tried another TryHackMe room and explored more offensive security concepts.
-- Revised Advance Computer Network Chapter 1 and noted key points.
-- Planned to install Kali Linux on Day 3.
+- Completed the Offensive Security Intro room on TryHackMe and practiced the lab tasks.
+- Watched the Defensive Security Intro and tried the related practicals in the lab.
+- Continued building my foundation in both attack and defense concepts.
