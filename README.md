@@ -17,3 +17,8 @@
 - Continued the “Careers in Cyber” room and understood the difference between Security Analyst, Penetration Tester, and Security Engineer.
 - Explored the Pre Security, Cyber Security 101, and SOC Level 1 paths on TryHackMe and wrote notes about what each path teaches.
 - Started my first room in the Pre Security path and practiced basic concepts.
+
+### Day 4 – Dec 10, 2025 ✅
+- Reached 21% in the “Careers in Cyber” room on TryHackMe.
+- Learned about the structure of a SOC and different SOC levels (L1, L2, L3).
+- Started understanding how roles like SOC Analyst and other blue‑team positions fit inside a real SOC environment.
