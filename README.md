@@ -24,7 +24,6 @@
 - Started understanding how roles like SOC Analyst and other blue‑team positions fit inside a real SOC environment.
 
 - ### Day 5 – Dec 11, 2025 ✅
-- Continued working on the “Offensive Security Intro” content on TryHackMe and reached around 50% overall progress.
-- Revised the earlier tasks to better understand basic offensive security concepts and lab steps.
-- Gained more confidence with the TryHackMe interface and walkthrough labs, preparing for deeper rooms in the next days.
-
+- Studied the purpose and main components of a Security Operations Center (SOC): detecting and responding to security incidents.
+- Learned the three core pillars of a SOC in more detail: People (analysts and teams), Process (playbooks and workflows), and Technology (SIEM, EDR, and other tools).
+- Started to understand how these three pillars work together to monitor, detect, and respond to cyber threats in real organisations.
