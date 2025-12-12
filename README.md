@@ -27,3 +27,9 @@
 - Studied the purpose and main components of a Security Operations Center (SOC): detecting and responding to security incidents.
 - Learned the three core pillars of a SOC in more detail: People (analysts and teams), Process (playbooks and workflows), and Technology (SIEM, EDR, and other tools).
 - Started to understand how these three pillars work together to monitor, detect, and respond to cyber threats in real organisations.
+
+- ### Day 6 – Dec 12, 2025 ✅
+- Continued the “Careers in Cyber” room on TryHackMe and increased my overall progress from 22% to 33%.
+- Completed the Security Analyst section and moved into the Security Engineer learning path.
+- In the SOC Level 1 part, finished the “Blue Team Introduction” section, including the “Junior Security Analyst Intro” room and the introduction + security hierarchy parts of the “SOC Role in Blue Team” room.
+
