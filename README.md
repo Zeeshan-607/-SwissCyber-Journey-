@@ -33,3 +33,7 @@
 - Completed the Security Analyst section and moved into the Security Engineer learning path.
 - In the SOC Level 1 part, finished the “Blue Team Introduction” section, including the “Junior Security Analyst Intro” room and the introduction + security hierarchy parts of the “SOC Role in Blue Team” room.
 
+### Day 7 – Dec 13, 2025 ✅
+- Learned about the roles of an Incident Responder and a Digital Forensics Examiner and how they handle and investigate security incidents.
+- Studied what a Malware Analyst does, including analysing malicious files and understanding how malware behaves.
+- Reviewed the responsibilities of a Penetration Tester and how this offensive role helps organisations find and fix vulnerabilities.
