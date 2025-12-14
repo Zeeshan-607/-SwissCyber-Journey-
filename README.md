@@ -37,3 +37,9 @@
 - Learned about the roles of an Incident Responder and a Digital Forensics Examiner and how they handle and investigate security incidents.
 - Studied what a Malware Analyst does, including analysing malicious files and understanding how malware behaves.
 - Reviewed the responsibilities of a Penetration Tester and how this offensive role helps organisations find and fix vulnerabilities.
+
+- ### Day 8 – Dec 14, 2025 ✅
+- Learned about the Red Teamer role and how it fits into offensive security.
+- Reviewed the responsibilities and learning paths for a junior penetration tester (the “Offensive Security Intro” and “Defensive Security Intro” rooms were shown again, so I skipped them this time as I had seen them earlier).
+- In the “Offensive Pentester” section, completed the introduction and learned about vulnerability assessment and the limitations of penetration testers.
+
