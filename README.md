@@ -43,3 +43,7 @@
 - Reviewed the responsibilities and learning paths for a junior penetration tester (the “Offensive Security Intro” and “Defensive Security Intro” rooms were shown again, so I skipped them this time as I had seen them earlier).
 - In the “Offensive Pentester” section, completed the introduction and learned about vulnerability assessment and the limitations of penetration testers.
 
+### Day 9 – Dec 15, 2025 ✅
+- Successfully installed Kali Linux and ran my first basic terminal commands to get comfortable with the environment.
+- Completed the “Red Team Engagements” content and learned how red teams plan and execute realistic attack simulations.
+- Finished the “Starting Your First Machine” section on TryHackMe, gaining confidence in connecting to and interacting with target machines.
