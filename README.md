@@ -47,3 +47,8 @@
 - Successfully installed Kali Linux and ran my first basic terminal commands to get comfortable with the environment.
 - Completed the “Red Team Engagements” content and learned how red teams plan and execute realistic attack simulations.
 - Finished the “Starting Your First Machine” section on TryHackMe, gaining confidence in connecting to and interacting with target machines.
+
+### Day 10 – Dec 16, 2025 ✅
+- Completed the “Red Team Engagements” room in Red Team Fundamentals and learned about how red‑team operations are planned and executed.
+- Studied the “Teams and Functions of an Engagement” and “Engagement Structure” sections to understand who does what during a red‑team engagement.
+- Faced some issues while using Linux in Kali, but successfully solved them while practising basic terminal commands (navigation, creating and removing files/folders).
