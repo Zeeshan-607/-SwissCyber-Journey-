@@ -52,3 +52,8 @@
 - Completed the “Red Team Engagements” room in Red Team Fundamentals and learned about how red‑team operations are planned and executed.
 - Studied the “Teams and Functions of an Engagement” and “Engagement Structure” sections to understand who does what during a red‑team engagement.
 - Faced some issues while using Linux in Kali, but successfully solved them while practising basic terminal commands (navigation, creating and removing files/folders).
+
+### Day 11 – Dec 17, 2025 ✅
+- Completed the full “Careers in Cyber” room on TryHackMe, including the final section on the Red Teamer role and the closing quiz.
+- Revised the different career paths (SOC analyst, security engineer, incident responder, malware analyst, penetration tester, and red teamer) and how they fit together in the cyber security ecosystem.
+- Planned to start focused networking studies from tomorrow to strengthen my core fundamentals for future cyber security work.
