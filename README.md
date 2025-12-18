@@ -57,3 +57,8 @@
 - Completed the full “Careers in Cyber” room on TryHackMe, including the final section on the Red Teamer role and the closing quiz.
 - Revised the different career paths (SOC analyst, security engineer, incident responder, malware analyst, penetration tester, and red teamer) and how they fit together in the cyber security ecosystem.
 - Planned to start focused networking studies from tomorrow to strengthen my core fundamentals for future cyber security work.
+
+### Day 12 – Dec 18, 2025 ✅
+- Started the “What is Networking?” topic and learned the basic definitions of networking and what a network is.
+- Answered all the related questions in the TryHackMe room and reached 18% overall progress in the networking path.
+- Began building my core networking foundation, which will directly support my future cyber security learning and labs.
