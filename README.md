@@ -62,3 +62,8 @@
 - Started the “What is Networking?” topic and learned the basic definitions of networking and what a network is.
 - Answered all the related questions in the TryHackMe room and reached 18% overall progress in the networking path.
 - Began building my core networking foundation, which will directly support my future cyber security learning and labs.
+
+### Day 13 – Dec 19, 2025 ✅
+- Learned about identifying devices on a network and how different hosts appear in a network environment.
+- Practised “changing my IP address” in a TryHackMe room and understood why IP changes can matter in hacking and defence scenarios.
+- Solved all 5 questions inside that room, reinforcing my understanding of basic networking and IP concepts.
