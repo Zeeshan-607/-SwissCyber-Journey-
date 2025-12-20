@@ -67,3 +67,8 @@
 - Learned about identifying devices on a network and how different hosts appear in a network environment.
 - Practised “changing my IP address” in a TryHackMe room and understood why IP changes can matter in hacking and defence scenarios.
 - Solved all 5 questions inside that room, reinforcing my understanding of basic networking and IP concepts.
+
+### Day 14 – Dec 20, 2025 ✅
+- Faced performance and storage issues with my dual-boot Kali Linux setup and spent time troubleshooting them until Kali ran smoothly again.
+- Learned more about managing a dual-boot system and why a stable Linux setup is important for cyber security practice.
+- Continued the “Ping” networking room on TryHackMe and completed it up to 81%, improving my understanding of how ping works to test connectivity between devices.
