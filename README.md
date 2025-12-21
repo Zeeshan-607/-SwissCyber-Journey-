@@ -72,3 +72,7 @@
 - Faced performance and storage issues with my dual-boot Kali Linux setup and spent time troubleshooting them until Kali ran smoothly again.
 - Learned more about managing a dual-boot system and why a stable Linux setup is important for cyber security practice.
 - Continued the “Ping” networking room on TryHackMe and completed it up to 81%, improving my understanding of how ping works to test connectivity between devices.
+
+### Day 15 – Dec 21, 2025 ✅
+- Completed the Ping (ICMP) room and learned how ICMP is used for connectivity testing and basic troubleshooting.
+- Finished the “Intro to LAN” section, understanding how local area networks are structured, how devices communicate inside a LAN, and why this is important for cyber security.
