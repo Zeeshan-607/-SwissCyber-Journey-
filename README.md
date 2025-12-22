@@ -76,3 +76,8 @@
 ### Day 15 – Dec 21, 2025 ✅
 - Completed the Ping (ICMP) room and learned how ICMP is used for connectivity testing and basic troubleshooting.
 - Finished the “Intro to LAN” section, understanding how local area networks are structured, how devices communicate inside a LAN, and why this is important for cyber security.
+
+### Day 16 – Dec 22, 2025 ✅
+- Completed the LAN section 
+- Learned about how devices are grouped into networks and how IP ranges are used to define those networks.
+- Improved my understanding of how network types and ranges affect communication and security inside a LAN.
