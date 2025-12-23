@@ -81,3 +81,7 @@
 - Completed the LAN section 
 - Learned about how devices are grouped into networks and how IP ranges are used to define those networks.
 - Improved my understanding of how network types and ranges affect communication and security inside a LAN.
+
+### Day 17 – Dec 23, 2025 ✅
+- Spent the day revising my previous networking and Linux topics to strengthen my fundamentals.
+- Revisited notes and TryHackMe rooms from earlier days to make sure I properly remembered key concepts before moving ahead.
