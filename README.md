@@ -85,3 +85,7 @@
 ### Day 17 – Dec 23, 2025 ✅
 - Spent the day revising my previous networking and Linux topics to strengthen my fundamentals.
 - Revisited notes and TryHackMe rooms from earlier days to make sure I properly remembered key concepts before moving ahead.
+
+### Day 18 – Dec 24, 2025 ✅
+- Started studying the OSI model and began understanding how the 7 layers (from Physical up to Application) help structure networking concepts.
+- Revised basic Linux commands in Kali and practised working with files and directories to get more comfortable with the terminal.
