@@ -89,3 +89,4 @@
 ### Day 18 – Dec 24, 2025 ✅
 - Started studying the OSI model and began understanding how the 7 layers (from Physical up to Application) help structure networking concepts.
 - Revised basic Linux commands in Kali and practised working with files and directories to get more comfortable with the terminal.
+- Practised the new Linux commands in Kali, and today I was able to remember three of them without looking at my notes just by running them in the terminal.
