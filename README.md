@@ -93,3 +93,7 @@
 
 ### Day 19 – Dec 25, 2025 ✅
 - Successfully ran more Linux terminal commands in Kali, including `ls -la`, `ls -sl`, `history`, and `clear`, and started feeling more comfortable working inside the shell.
+
+### Day 20 – Dec 26, 2025 ✅
+- Watched a video about “5 mistakes to avoid as a cybersecurity fresher” and noted what I should not do at the beginning of my journey.
+- Reflected on my own learning plan so that I focus on fundamentals, hands-on labs, and a clear path instead of just random courses or certificates.
