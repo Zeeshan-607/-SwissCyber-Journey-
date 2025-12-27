@@ -97,3 +97,7 @@
 ### Day 20 – Dec 26, 2025 ✅
 - Watched a video about “5 mistakes to avoid as a cybersecurity fresher” and noted what I should not do at the beginning of my journey.
 - Reflected on my own learning plan so that I focus on fundamentals, hands-on labs, and a clear path instead of just random courses or certificates.
+
+### Day 21 – Dec 27, 2025 ✅
+- Started going deeper into cyber security and networking concepts instead of just surface-level learning.
+- Focused on understanding the “why” behind topics I have already seen, so that my fundamentals become stronger for future red-team and SOC work.
