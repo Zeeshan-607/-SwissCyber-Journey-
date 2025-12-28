@@ -101,3 +101,7 @@
 ### Day 21 – Dec 27, 2025 ✅
 - Started going deeper into cyber security and networking concepts instead of just surface-level learning.
 - Focused on understanding the “why” behind topics I have already seen, so that my fundamentals become stronger for future red-team and SOC work.
+
+- ### Day 22 – Dec 28, 2025 ✅
+- Spent time doing a small room makeover and organizing my study setup so I can focus better on cyber security.
+- Because of this, I only ran three Linux commands today, but still touched Kali to keep the habit alive.
