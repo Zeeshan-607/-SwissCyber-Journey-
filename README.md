@@ -105,3 +105,8 @@
 - ### Day 22 – Dec 28, 2025 ✅
 - Spent time doing a small room makeover and organizing my study setup so I can focus better on cyber security.
 - Because of this, I only ran three Linux commands today, but still touched Kali to keep the habit alive.
+
+### Day 23 – Dec 29, 2025 ✅
+- Reviewed all the TryHackMe rooms I had started earlier, especially the Red Teamer and Blue Teamer sections from Careers in Cyber.
+- Went through the key points about Red Team (offensive) vs Blue Team (defensive) roles, their responsibilities, and how they work together.
+- Connected these concepts with my networking and Linux practice to understand how they apply in real cyber security jobs.
