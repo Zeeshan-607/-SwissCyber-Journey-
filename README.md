@@ -110,3 +110,8 @@
 - Reviewed all the TryHackMe rooms I had started earlier, especially the Red Teamer and Blue Teamer sections from Careers in Cyber.
 - Went through the key points about Red Team (offensive) vs Blue Team (defensive) roles, their responsibilities, and how they work together.
 - Connected these concepts with my networking and Linux practice to understand how they apply in real cyber security jobs.
+
+### Day 24 – Dec 30, 2025 ✅
+- Did another revision session of all previous TryHackMe rooms and concepts to make sure everything stays fresh in my memory.
+- Reviewed Red Team vs Blue Team roles, networking fundamentals, and Linux commands practiced so far.
+- Focused on connecting all the topics together to build a stronger overall foundation before moving to more advanced rooms.
