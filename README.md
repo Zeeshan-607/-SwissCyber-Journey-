@@ -115,3 +115,8 @@
 - Did another revision session of all previous TryHackMe rooms and concepts to make sure everything stays fresh in my memory.
 - Reviewed Red Team vs Blue Team roles, networking fundamentals, and Linux commands practiced so far.
 - Focused on connecting all the topics together to build a stronger overall foundation before moving to more advanced rooms.
+
+### Day 25 – Dec 31, 2025 ✅
+- Completed a full total revision of everything learned so far in my cyber security journey.
+- Reviewed all TryHackMe rooms (Careers in Cyber, networking, Red Team fundamentals), Linux commands practiced in Kali, and Advance Computer Network syllabus topics.
+- Ended the year with a strong foundation, ready to start 2026 with deeper hands-on labs and more advanced cyber security paths.
