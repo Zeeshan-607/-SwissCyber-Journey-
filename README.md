@@ -120,3 +120,19 @@
 - Completed a full total revision of everything learned so far in my cyber security journey.
 - Reviewed all TryHackMe rooms (Careers in Cyber, networking, Red Team fundamentals), Linux commands practiced in Kali, and Advance Computer Network syllabus topics.
 - Ended the year with a strong foundation, ready to start 2026 with deeper hands-on labs and more advanced cyber security paths.
+
+## Day 26 - EXIF basics + exiftool setup"
+## Day 27 - GPS coordinate parser JS"
+## Day 28 - HTML upload interface"
+## Day 29 - Map integration (Leaflet)"
+## Day 30 - Temperature/ISO analyzer"
+## Day 31 - iPhone vs Android comparison"
+## Day 32 - Responsive design"
+## Day 33 - Report generator PDF"
+## Day 34 - Latur demo photos"
+## Day 35 - Error handling + validation"
+## Day 36 - Dark mode toggle"
+## Day 37 - Batch photo processor"
+## Day 38 - Timeline visualization"
+## Day 39 - Mobile optimization"
+## Day 40 - Final demo + deploy"
